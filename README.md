@@ -1,2 +1,2 @@
 # SAD-subject
-Hello everyone this our repository for do our project
+This is final project of group 6 years 3 semester 1
